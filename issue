@@ -1,0 +1,6 @@
+1. video window not appearing - https://stackoverflow.com/questions/39802460/opencv-webcam-window-not-opening/39802509
+2. Need of libraries
+    conda install -c conda-forge opencv
+    pip3 install keras
+    pip3 install tensorflow
+    pip3 install pillow
